@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam Javed</h1>
 
-<h3 align="center">AI/ML Engineer • Data Engineer • MLOps • Intelligent Automation</h3>
+<h3 align="center">AI/ML Engineer • Data Engineer • Devops Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adamjaved-tech&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
